@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "gdg-bloomington-badgetracker",
+    "public": "gdg-bloomington-badgetracker"
+  },
+  "targets": {},
+  "etags": {}
+}
